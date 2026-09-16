@@ -1,0 +1,4 @@
+Physics Examination - Part A
+1. Calculate the final velocity of an object in free fall from height h.
+2. Formulate the conservation of linear momentum for two colliding bodies.
+3. Derive the expression for capacitance in a parallel-plate capacitor.
